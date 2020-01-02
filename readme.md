@@ -13,8 +13,8 @@ dev)
 - <code>yarn add axios</code>
 
 # passos
-- isntalar itens acima
-- gitignore
+- instalar itens acima
+- criação do .gitignore
 - configurar o babel (.babelrc)
 - criar index.html
 - criar main.js
